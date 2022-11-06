@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T22:20:06 PDT" name="Default suite" finished-at="2022-11-05T22:20:27 PDT" duration-ms="21486">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T22:20:06 PDT" name="Default test" finished-at="2022-11-05T22:20:27 PDT" duration-ms="21486">
+      <class name="scripting.TestCases4">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripting.TestCases4@31d7b7bf]" started-at="2022-11-05T22:20:06 PDT" name="openApp" finished-at="2022-11-05T22:20:10 PDT" duration-ms="3588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="tc4()[pri:0, instance:scripting.TestCases4@31d7b7bf]" started-at="2022-11-05T22:20:10 PDT" name="tc4" finished-at="2022-11-05T22:20:27 PDT" duration-ms="17841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- scripting.TestCases4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
